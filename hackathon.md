@@ -1,4 +1,4 @@
-# 🚀 Hackathons & Hiring Challenges for Internships/Placements (India)
+# Hackathons & Hiring Challenges for Internships/Placements (India)
 
 A curated, placement-focused list of tech hackathons & campus challenges that **often lead to PPIs/PP0s, internships, or full-time roles**.  
 Where available, I’ve used official pages and typical India pay bands.
@@ -14,7 +14,6 @@ Where available, I’ve used official pages and typical India pay bands.
 <a href="https://campusbeats.zs.com/"><img src="https://logo.clearbit.com/zs.com?size=80" height="28" alt="ZS Campus Beats" /></a>&nbsp;
 <a href="https://deloittehacksplosion.hirepro.in/"><img src="https://logo.clearbit.com/deloitte.com?size=80" height="28" alt="Deloitte Hacksplosion" /></a>&nbsp;
 <a href="https://unstop.com/hackathons/sparkplug-summer-internship-2025-walmart-global-tech-india-1175366"><img src="https://logo.clearbit.com/walmart.com?size=80" height="24" alt="Walmart SparkPlug" /></a>&nbsp;
-<a href="https://walmart.converge.tech/content/converge/en_in/sparkathon.html"><img src="https://logo.clearbit.com/walmart.com?size=80" height="24" alt="Walmart Sparkathon" /></a>&nbsp;
 <a href="https://unstop.com/hackathons/hackon-with-amazon-season-5-amazon-1473780"><img src="https://logo.clearbit.com/amazon.com?size=80" height="24" alt="Amazon HackOn" /></a>&nbsp;
 <a href="https://honeywellcampusconnect.hirepro.in/"><img src="https://logo.clearbit.com/honeywell.com?size=80" height="24" alt="Honeywell Campus" /></a>&nbsp;
 <a href="https://www.nokia.com/careers/our-locations/india/students-and-graduates/"><img src="https://logo.clearbit.com/nokia.com?size=80" height="24" alt="Nokia Accelerate Her" /></a>&nbsp;
